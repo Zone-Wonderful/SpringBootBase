@@ -28,11 +28,11 @@ git clone https://gitee.com/Zone_Wonderful/SpringBootBase.git
 
 登录测试
 
-![登录测试](./img/登录测试.png)
+![登录测试](../img/登录测试.png)
 
 获取数据测试
 
-![获取数据测试](./img/获取数据测试.png)
+![获取数据测试](../img/获取数据测试.png)
 
 #### 链接
 
